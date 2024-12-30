@@ -38,17 +38,16 @@ pip install pyqt5 qrcode[pil] pillow
 5. Choose a location to save the generated QR code image.
 
 ## Screenshot
+![m](https://github.com/user-attachments/assets/43ea148a-8298-491a-bbf1-2c4a877c7fa4)
+![m2](https://github.com/user-attachments/assets/c977963e-915e-4420-9708-4a151d8fd7a0)
 
-![QR Code App Screenshot](screenshot.png)
+## Download Apps
+```bash
+pip install pyqt5 qrcode[pil] pillow
+```
 
 ## Developer
 
 This app was developed by **Obaid Med Bouslahi**.
 
-## License
 
-This project is open-source and available under the MIT License.
-
-```
-
-If you have a screenshot of the app, you can include it as `screenshot.png` in the repository directory. Make sure to update the usage section if you add or modify features.
