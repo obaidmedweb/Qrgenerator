@@ -1,6 +1,5 @@
 Here’s an example of a `README.md` file for your QR code generator project. You can customize it as needed:
 
-
 ```markdown
 # QR Code Generator
 
@@ -39,15 +38,8 @@ pip install pyqt5 qrcode[pil] pillow
 5. Choose a location to save the generated QR code image.
 
 ## Screenshot
-![m](https://github.com/user-attachments/assets/e8d9cc3f-414f-4840-9a53-8b15a6effa0c)
 
-![m2](https://github.com/user-attachments/assets/eca82a2d-0552-459e-9b84-a7c9eee9d7e0)
-
-## Download Apps
-```bash
-pip install pyqt5 qrcode[pil] pillow
-```
-
+![QR Code App Screenshot](screenshot.png)
 
 ## Developer
 
@@ -59,3 +51,4 @@ This project is open-source and available under the MIT License.
 
 ```
 
+If you have a screenshot of the app, you can include it as `screenshot.png` in the repository directory. Make sure to update the usage section if you add or modify features.
